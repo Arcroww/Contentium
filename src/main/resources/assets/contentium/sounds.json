@@ -1,0 +1,91 @@
+{
+  "mob.rabbit.hop": {
+    "category": "neutral",
+    "sounds": [
+      "mob/rabbit/hop1",
+      "mob/rabbit/hop2",
+      "mob/rabbit/hop3",
+      "mob/rabbit/hop4"
+    ]
+  },
+  "mob.rabbit.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "mob/rabbit/hurt1",
+      "mob/rabbit/hurt2",
+      "mob/rabbit/hurt3",
+      "mob/rabbit/hurt4"
+    ]
+  },
+  "mob.rabbit.idle": {
+    "category": "neutral",
+    "sounds": [
+      "mob/rabbit/idle1",
+      "mob/rabbit/idle2",
+      "mob/rabbit/idle3",
+      "mob/rabbit/idle4"
+    ]
+  },
+  "mob.rabbit.death": {
+    "category": "neutral",
+    "sounds": [
+      "mob/rabbit/bunnymurder"
+    ]
+  },
+  "block.brewing_stand.brew": {
+    "category": "block",
+    "sounds": [
+      "block/brewing_stand/brew1",
+      "block/brewing_stand/brew2"
+    ]
+  },
+  "block.bush.place": {
+    "category": "block",
+    "sounds": [
+      "block/bush/place1",
+      "block/bush/place2",
+      "block/bush/place3",
+      "block/bush/place4",
+      "block/bush/place5",
+      "block/bush/place6"
+    ]
+  },
+  "block.bush.hurt": {
+    "category": "block",
+    "sounds": [
+      "block/bush/hurt1",
+      "block/bush/hurt2"
+    ]
+  },
+  "block.bush.break": {
+    "category": "block",
+    "sounds": [
+      "block/bush/break1",
+      "block/bush/break2",
+      "block/bush/break3",
+      "block/bush/break4"
+    ]
+  },
+  "block.bush.flem": {
+    "category": "block",
+    "sounds": [
+      "block/bush/flem1"
+    ]
+  },
+  "block.bush.pick": {
+    "category": "block",
+    "sounds": [
+      "block/bush/pick1",
+      "block/bush/pick2"
+    ]
+  },
+  "block.log.stripped": {
+    "category": "block",
+    "sounds": [
+      "block/stripped/stripped1",
+      "block/stripped/stripped2",
+      "block/stripped/stripped3",
+      "block/stripped/stripped4"
+    ]
+  }
+}

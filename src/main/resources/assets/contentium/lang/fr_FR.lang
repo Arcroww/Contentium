@@ -1,0 +1,942 @@
+# Enchantments
+enchantment.frost_walker=Semelles givrantes
+enchantment.mending=Raccommodage
+
+# Containers
+container.contentium.banner=Bannière
+container.enchant.lapis.one=1 Lapis Lazuli
+container.enchant.lapis.many=%d Lapis Lazuli
+container.enchant.level.required=Niveau requis
+container.enchant.level.one=1 Niveau d'Enchantement
+container.enchant.level.many=%d Niveaux d'Enchantements
+container.enchant.clue=%s . . . ?
+container.blast_furnace=
+container.smoker= 
+
+# Entities
+entity.contentium.endermite.name=Endermite
+entity.contentium.wooden_armorstand.name=Porte-armure
+entity.contentium.rabbit.name=Lapin
+entity.contentium.villager_zombie.name=Zombie Villageois
+entity.contentium.end_crystal.name=Cristal de l'End
+entity.contentium.ender_dragon.name=Dragon de l'End
+entity.contentium.snow_golem.name=Golem de Neige
+
+# Items
+item.contentium.mutton_raw.name=Mouton Cru
+item.contentium.mutton_cooked.name=Mouton Cuit
+item.contentium.prismarine_shard.name=Eclat de Prismarine
+item.contentium.prismarine_crystals.name=Cristaux de Prismarine
+item.contentium.wooden_armorstand.name=Porte-Armure
+item.contentium.rabbit_raw.name=Lapin Cru
+item.contentium.rabbit_cooked.name=Lapin Cuit
+item.contentium.rabbit_stew.name=Ragoût de Lapin
+item.contentium.rabbit_foot.name=Patte de Lapin
+item.contentium.rabbit_hide.name=Peau de Lapin
+item.contentium.beetroot.name=Betterave
+item.contentium.beetroot_seeds.name=Graines de Betterave
+item.contentium.beetroot_soup.name=Soupes de Betteraves
+item.contentium.chorus_fruit.name=Chorus
+item.contentium.chorus_fruit_popped.name=Chorus éclaté
+item.contentium.dragon_breath.name=Souffle du Dragon
+item.contentium.elytra.name=Élytres
+item.contentium.end_crystal.name=Cristal de l'End
+potion.prefix.lingering=Persistante
+
+# Arrows
+tipped_arrow.potion.nightVision.name=Flèche de vision nocturne
+tipped_arrow.potion.invisibility.name=Flèche d'invisibilité
+tipped_arrow.potion.jump.name=Flèche de saut
+tipped_arrow.potion.fireResistance.name=Flèche de résistance au feu
+tipped_arrow.potion.moveSpeed.name=Flèche de rapidité
+tipped_arrow.potion.moveSlowdown.name=Flèche de lenteur
+tipped_arrow.potion.waterBreathing.name=Flèche de respiration aquatique
+tipped_arrow.potion.heal.name=Flèche de soin
+tipped_arrow.potion.harm.name=Flèche de dégâts
+tipped_arrow.potion.poison.name=Flèche de poison
+tipped_arrow.potion.regeneration.name=Flèche de régénération
+tipped_arrow.potion.damageBoost.name=Flèche de force
+tipped_arrow.potion.weakness.name=Flèche de faiblesse
+
+# Blocks
+tile.contentium.stone_granite.name=Granite
+tile.contentium.stone_granite_smooth.name=Granite poli
+tile.contentium.stone_diorite.name=Diorite
+tile.contentium.stone_diorite_smooth.name=Diorite poli
+tile.contentium.stone_andesite.name=Andésite
+tile.contentium.stone_andesite_smooth.name=Andésite poli
+tile.contentium.iron_trapdoor.name=Trappe en fer
+tile.contentium.prismarine_block_rough.name=Prismarine
+tile.contentium.prismarine_block_bricks.name=Prismarine taillée
+tile.contentium.prismarine_block_dark.name=Prismarine sombre
+tile.contentium.sea_lantern.name=Lanterne aquatique
+tile.contentium.daylight_detector_inverted.name=Capteur de lumière inversé
+tile.contentium.red_sandstone_default.name=Grès rouge
+tile.contentium.red_sandstone_chiseled.name=Grès rouge taillé
+tile.contentium.red_sandstone_smooth.name=Grès rouge lisse
+tile.contentium.red_sandstone_slab.name=Dalle de grès rouge
+tile.contentium.red_sandstone_stairs.name=Escalier en grès rouge
+tile.contentium.red_mushroom.name=Champignon
+tile.contentium.brown_mushroom.name=Champignon
+tile.contentium.coarse_dirt.name=Terre stérile
+tile.contentium.slime.name=Bloc de slime
+tile.contentium.sponge.name=Éponge
+tile.contentium.sponge_wet.name=Éponge mouillée
+tile.contentium.door_spruce.name=Porte en sapin
+tile.contentium.door_birch.name=Porte en bouleau
+tile.contentium.door_jungle.name=Porte en acajou
+tile.contentium.door_acacia.name=Porte en acacia
+tile.contentium.door_dark_oak.name=Porte en chêne noir
+tile.contentium.fence_oak.name=Barrière en chêne
+tile.contentium.fence_spruce.name=Barrière en sapin
+tile.contentium.fence_birch.name=Barrière en bouleau
+tile.contentium.fence_jungle.name=Barrière en Acajou
+tile.contentium.fence_acacia.name=Barrière en acacia
+tile.contentium.fence_dark_oak.name=Barrière en chêne noir
+tile.contentium.fence_gate_spruce.name=Portillon en sapin
+tile.contentium.fence_gate_birch.name=Portillon en bouleau
+tile.contentium.fence_gate_jungle.name=Portillon en acajou
+tile.contentium.fence_gate_acacia.name=Portillon en acacia
+tile.contentium.fence_gate_dark_oak.name=Portillon en chêne noir
+tile.contentium.old_gravel.name=Gravier
+tile.contentium.beetroots.name=Betterave
+tile.contentium.purpur_block.name=Bloc de purpur
+tile.contentium.purpur_slab.name=Dalle de purpur
+tile.contentium.purpur_pillar.name=Pilier de purpur
+tile.contentium.purpur_stairs.name=Escalier de purpur
+tile.contentium.end_bricks.name=Briques de l'End
+tile.contentium.grass_path.name=Chemin d'herbe
+tile.contentium.end_rod.name=Barre de l'End
+tile.contentium.chorus_flower.name=Fleur de chorus
+tile.contentium.chorus_plant.name=Plante de chorus
+tile.contentium.brewing_stand.name=Alambic
+tile.contentium.frosted_ice.name=Glace bleue
+tile.contentium.rose.name=Rose
+tile.contentium.beacon.name=Balise
+tile.contentium.enchantment_table.name=Table d'enchantement
+tile.contentium.anvil.intact.name=Enclume
+tile.contentium.anvil.slightlyDamaged.name=Enclume ébréchée
+tile.contentium.anvil.veryDamaged.name=Enclume endommagée
+tile.contentium.daylight_sensor.name=Capteur de lumière
+
+# Banners
+item.banner.black.name=Bannière noire
+item.banner.red.name=Bannière rouge
+item.banner.green.name=Bannière verte
+item.banner.brown.name=Bannière marron
+item.banner.blue.name=Bannière bleue
+item.banner.purple.name=Bannière violette
+item.banner.cyan.name=Bannière cyan
+item.banner.silver.name=Bannière gris clair
+item.banner.gray.name=Bannière grise
+item.banner.pink.name=Bannière rose
+item.banner.lime.name=Bannière vert clair
+item.banner.yellow.name=Bannière jaune
+item.banner.lightBlue.name=Bannière bleu clair
+item.banner.magenta.name=Bannière magenta
+item.banner.orange.name=Bannière orange
+item.banner.white.name=Bannière blanche
+
+item.banner.square_bottom_left.black=Canton en pointe à dextre noir
+item.banner.square_bottom_left.red=Canton en pointe à dextre rouge
+item.banner.square_bottom_left.green=Canton en pointe à dextre vert
+item.banner.square_bottom_left.brown=Canton en pointe à dextre marron
+item.banner.square_bottom_left.blue=Canton en pointe à dextre bleu
+item.banner.square_bottom_left.purple=Canton en pointe à dextre violet
+item.banner.square_bottom_left.cyan=Canton en pointe à dextre cyan
+item.banner.square_bottom_left.silver=Canton en pointe à dextre gris clair
+item.banner.square_bottom_left.gray=Canton en pointe à dextre gris
+item.banner.square_bottom_left.pink=Canton en pointe à dextre rose
+item.banner.square_bottom_left.lime=Canton en pointe à dextre vert clair
+item.banner.square_bottom_left.yellow=Canton en pointe à dextre jaune
+item.banner.square_bottom_left.lightBlue=Canton en pointe à dextre bleu clair
+item.banner.square_bottom_left.magenta=Canton en pointe à dextre magenta
+item.banner.square_bottom_left.orange=Canton en pointe à dextre orange
+item.banner.square_bottom_left.white=Canton en pointe à dextre blanc
+
+item.banner.square_bottom_right.black=Canton en pointe à sénestre noir
+item.banner.square_bottom_right.red=Canton en pointe à sénestre rouge
+item.banner.square_bottom_right.green=Canton en pointe à sénestre vert
+item.banner.square_bottom_right.brown=Canton en pointe à sénestre marron
+item.banner.square_bottom_right.blue=Canton en pointe à sénestre bleu
+item.banner.square_bottom_right.purple=Canton en pointe à sénestre violet
+item.banner.square_bottom_right.cyan=Canton en pointe à sénestre cyan
+item.banner.square_bottom_right.silver=Canton en pointe à sénestre gris clair
+item.banner.square_bottom_right.gray=Canton en pointe à sénestre gris
+item.banner.square_bottom_right.pink=Canton en pointe à sénestre rose
+item.banner.square_bottom_right.lime=Canton en pointe à sénestre vert clair
+item.banner.square_bottom_right.yellow=Canton en pointe à sénestre jaune
+item.banner.square_bottom_right.lightBlue=Canton en pointe à sénestre bleu clair
+item.banner.square_bottom_right.magenta=Canton en pointe à sénestre magenta
+item.banner.square_bottom_right.orange=Canton en pointe à sénestre orange
+item.banner.square_bottom_right.white=Canton en pointe à sénestre blanc
+
+item.banner.square_top_left.black=Canton en chef à dextre noir
+item.banner.square_top_left.red=Canton en chef à dextre rouge
+item.banner.square_top_left.green=Canton en chef à dextre vert
+item.banner.square_top_left.brown=Canton en chef à dextre marron
+item.banner.square_top_left.blue=Canton en chef à dextre bleue
+item.banner.square_top_left.purple=Canton en chef à dextre violet
+item.banner.square_top_left.cyan=Canton en chef à dextre cyan
+item.banner.square_top_left.silver=Canton en chef à dextre gris clair
+item.banner.square_top_left.gray=Canton en chef à dextre gris
+item.banner.square_top_left.pink=Canton en chef à dextre rose
+item.banner.square_top_left.lime=Canton en chef à dextre vert clair
+item.banner.square_top_left.yellow=Canton en chef à dextre jaune
+item.banner.square_top_left.lightBlue=Canton en chef à dextre bleu clair
+item.banner.square_top_left.magenta=Canton en chef à dextre magenta
+item.banner.square_top_left.orange=Canton en chef à dextre orange
+item.banner.square_top_left.white=Canton en chef à dextre blanche
+
+item.banner.square_top_right.black=Canton en chef à sénestre rouge
+item.banner.square_top_right.red=Canton en chef à sénestre rouge
+item.banner.square_top_right.green=Canton en chef à sénestre vert
+item.banner.square_top_right.brown=Canton en chef à sénestre marron
+item.banner.square_top_right.blue=Canton en chef à sénestre bleue
+item.banner.square_top_right.purple=Canton en chef à sénestre violet
+item.banner.square_top_right.cyan=Canton en chef à sénestre cyan
+item.banner.square_top_right.silver=Canton en chef à sénestre gris clair
+item.banner.square_top_right.gray=Canton en chef à sénestre gris
+item.banner.square_top_right.pink=Canton en chef à sénestre rose
+item.banner.square_top_right.lime=Canton en chef à sénestre vert clair
+item.banner.square_top_right.yellow=Canton en chef à sénestre jaune
+item.banner.square_top_right.lightBlue=Canton en chef à sénestre bleu clair
+item.banner.square_top_right.magenta=Canton en chef à sénestre magenta
+item.banner.square_top_right.orange=Canton en chef à sénestre orange
+item.banner.square_top_right.white=Canton en chef à sénestre blanc
+
+item.banner.stripe_bottom.black=Émanchures en pointe noire
+item.banner.stripe_bottom.red=Émanchures en pointe rouge
+item.banner.stripe_bottom.green=Émanchures en pointe verte
+item.banner.stripe_bottom.brown=Émanchures en pointe marron
+item.banner.stripe_bottom.blue=Émanchures en pointe bleue
+item.banner.stripe_bottom.purple=Émanchures en pointe violette
+item.banner.stripe_bottom.cyan=Émanchures en pointe cyan
+item.banner.stripe_bottom.silver=Émanchures en pointe gris claire
+item.banner.stripe_bottom.gray=Émanchures en pointe grise
+item.banner.stripe_bottom.pink=Émanchures en pointe rose
+item.banner.stripe_bottom.lime=Émanchures en pointe vert claire
+item.banner.stripe_bottom.yellow=Émanchures en pointe jaune
+item.banner.stripe_bottom.lightBlue=Émanchures en pointe bleu claire
+item.banner.stripe_bottom.magenta=Émanchures en pointe magenta
+item.banner.stripe_bottom.orange=Émanchures en pointe orange
+item.banner.stripe_bottom.white=Émanchures en pointe blanche
+
+item.banner.stripe_top.black=Émanchures en chef noir
+item.banner.stripe_top.red=Émanchures en chef rouge
+item.banner.stripe_top.green=Émanchures en chef vert
+item.banner.stripe_top.brown=Émanchures en chef marron
+item.banner.stripe_top.blue=Émanchures en chef bleue
+item.banner.stripe_top.purple=Émanchures en chef violette
+item.banner.stripe_top.cyan=Émanchures en chef cyan
+item.banner.stripe_top.silver=Émanchures en chef gris claire
+item.banner.stripe_top.gray=Émanchures en chef gris
+item.banner.stripe_top.pink=Émanchures en chef rose
+item.banner.stripe_top.lime=Émanchures en chef vert claire
+item.banner.stripe_top.yellow=Émanchures en chef jaune
+item.banner.stripe_top.lightBlue=Émanchures en chef bleu claire
+item.banner.stripe_top.magenta=Émanchures en chef magenta
+item.banner.stripe_top.orange=Émanchures en chef orange
+item.banner.stripe_top.white=Émanchures en chef blanche
+
+item.banner.stripe_left.black=Pal à dextre noir
+item.banner.stripe_left.red=Pal à dextre rouge
+item.banner.stripe_left.green=Pal à dextre vert
+item.banner.stripe_left.brown=Pal à dextre marron
+item.banner.stripe_left.blue=Pal à dextre bleuee
+item.banner.stripe_left.purple=Pal à dextre violet
+item.banner.stripe_left.cyan=Pal à dextre cyan
+item.banner.stripe_left.silver=Pal à dextre gris clair
+item.banner.stripe_left.gray=Pal à dextre gris
+item.banner.stripe_left.pink=Pal à dextre rose
+item.banner.stripe_left.lime=Pal à dextre vert clair
+item.banner.stripe_left.yellow=Pal à dextre jaune
+item.banner.stripe_left.lightBlue=Pal à dextre bleu clair
+item.banner.stripe_left.magenta=Pal à dextre magenta
+item.banner.stripe_left.orange=Pal à dextre orange
+item.banner.stripe_left.white=Pal à dextre blanc
+
+item.banner.stripe_right.black=Pal à sénestre noir
+item.banner.stripe_right.red=Pal à sénestre rouge
+item.banner.stripe_right.green=Pal à sénestre vert
+item.banner.stripe_right.brown=Pal à sénestre marron
+item.banner.stripe_right.blue=Pal à sénestre bleu
+item.banner.stripe_right.purple=Pal à sénestre violet
+item.banner.stripe_right.cyan=Pal à sénestre cyan
+item.banner.stripe_right.silver=Pal à sénestre gris clair
+item.banner.stripe_right.gray=Pal à sénestre gris
+item.banner.stripe_right.pink=Pal à sénestre rose
+item.banner.stripe_right.lime=Pal à sénestre vert clair
+item.banner.stripe_right.yellow=Pal à sénestre jaune
+item.banner.stripe_right.lightBlue=Pal à sénestre bleu clair
+item.banner.stripe_right.magenta=Pal à sénestre magenta
+item.banner.stripe_right.orange=Pal à sénestre orange
+item.banner.stripe_right.white=Pal à sénestre blanc
+
+item.banner.stripe_center.black=Pal noir
+item.banner.stripe_center.red=Pal rouge
+item.banner.stripe_center.green=Pal vert
+item.banner.stripe_center.brown=Pal marron
+item.banner.stripe_center.blue=Pal bleu
+item.banner.stripe_center.purple=Pal violet
+item.banner.stripe_center.cyan=Pal cyan
+item.banner.stripe_center.silver=Pal gris clair
+item.banner.stripe_center.gray=Pal gris
+item.banner.stripe_center.pink=Pal rose
+item.banner.stripe_center.lime=Pal vert clair
+item.banner.stripe_center.yellow=Pal jaune
+item.banner.stripe_center.lightBlue=Pal bleu clair
+item.banner.stripe_center.magenta=Pal magenta
+item.banner.stripe_center.orange=Pal orange
+item.banner.stripe_center.white=Pal blanc
+
+item.banner.stripe_middle.black=Fasce noire
+item.banner.stripe_middle.red=Fasce rouge
+item.banner.stripe_middle.green=Fasce verte
+item.banner.stripe_middle.brown=Fasce marron
+item.banner.stripe_middle.blue=Fasce bleue
+item.banner.stripe_middle.purple=Fasce vuiolette
+item.banner.stripe_middle.cyan=Fasce cyan
+item.banner.stripe_middle.silver=Fasce grise claire
+item.banner.stripe_middle.gray=Fasce grise
+item.banner.stripe_middle.pink=Fasce rose
+item.banner.stripe_middle.lime=Fasce verte claire
+item.banner.stripe_middle.yellow=Fasce jaune
+item.banner.stripe_middle.lightBlue=Fasce bleue claire
+item.banner.stripe_middle.magenta=Fasce magenta
+item.banner.stripe_middle.orange=Fasce orange
+item.banner.stripe_middle.white=Fasce blanche
+
+item.banner.stripe_downright.black=Bande noire
+item.banner.stripe_downright.red=Bande rouge
+item.banner.stripe_downright.green=Bande verte
+item.banner.stripe_downright.brown=Bande marron
+item.banner.stripe_downright.blue=Bande bleue
+item.banner.stripe_downright.purple=Bande violette
+item.banner.stripe_downright.cyan=Bande cyan
+item.banner.stripe_downright.silver=Bande grise claire
+item.banner.stripe_downright.gray=Bande grise
+item.banner.stripe_downright.pink=Bande rose
+item.banner.stripe_downright.lime=Bande verte claire
+item.banner.stripe_downright.yellow=Bande jaune
+item.banner.stripe_downright.lightBlue=Bande bleue claire
+item.banner.stripe_downright.magenta=Bande magenta
+item.banner.stripe_downright.orange=Bande orange
+item.banner.stripe_downright.white=Bande blanche
+
+item.banner.stripe_downleft.black=Black Bend Sinister
+item.banner.stripe_downleft.red=Red Bend Sinister
+item.banner.stripe_downleft.green=Green Bend Sinister
+item.banner.stripe_downleft.brown=Brown Bend Sinister
+item.banner.stripe_downleft.blue=Blue Bend Sinister
+item.banner.stripe_downleft.purple=Purple Bend Sinister
+item.banner.stripe_downleft.cyan=Cyan Bend Sinister
+item.banner.stripe_downleft.silver=Sinistre de virage gris clair
+item.banner.stripe_downleft.gray=Gray Bend Sinister
+item.banner.stripe_downleft.pink=Pink Bend Sinister
+item.banner.stripe_downleft.lime=Lime Bend Sinister
+item.banner.stripe_downleft.yellow=Yellow Bend Sinister
+item.banner.stripe_downleft.lightBlue=Sinistre de virage bleu clair
+item.banner.stripe_downleft.magenta=Magenta Bend Sinister
+item.banner.stripe_downleft.orange=Orange Bend Sinister
+item.banner.stripe_downleft.white=White Bend Sinister
+
+item.banner.small_stripes.black=Paly noir
+item.banner.small_stripes.red=Paly rouge
+item.banner.small_stripes.green=Paly vert
+item.banner.small_stripes.brown=Paly marron
+item.banner.small_stripes.blue=Paly bleu
+item.banner.small_stripes.purple=Paly violet
+item.banner.small_stripes.cyan=Paly cyan
+item.banner.small_stripes.silver=gris clair paly
+item.banner.small_stripes.gray=Paly gris
+item.banner.small_stripes.pink=Paly rose
+item.banner.small_stripes.lime=Lime Paly
+item.banner.small_stripes.yellow=Jeu jaune
+item.banner.small_stripes.lightBlue=Bleu clair Paly
+item.banner.small_stripes.magenta=Magenta Paly
+item.banner.small_stripes.orange=Orange Paly
+item.banner.small_stripes.white=Paly blanc
+
+item.banner.cross.black=Sautoir noir
+item.banner.cross.red=Sautoir rouge
+item.banner.cross.green=Sautoire vert
+item.banner.cross.brown=Sautoire marron
+item.banner.cross.blue=Sautoire bleu
+item.banner.cross.purple=Sautoire violet
+item.banner.cross.cyan=Sautoire Cyan
+item.banner.cross.silver=Sautoir gris clair
+item.banner.cross.gray=Sautoir gris
+item.banner.cross.pink=Sautoir rose
+item.banner.cross.lime=Sauté de citron vert
+item.banner.cross.yellow=Sautoir jaune
+item.banner.cross.lightBlue=Sautoir bleu clair
+item.banner.cross.magenta=Sautoir magenta
+item.banner.cross.orange=Orange Saltire
+item.banner.cross.white=Sautoir blanc
+
+item.banner.triangle_bottom.black=Chevron noir
+item.banner.triangle_bottom.red=Chevron rouge
+item.banner.triangle_bottom.green=Chevron vert
+item.banner.triangle_bottom.brown=brun Chevron
+item.banner.triangle_bottom.blue=Blue Chevron
+item.banner.triangle_bottom.purple=Purple Chevron
+item.banner.triangle_bottom.cyan=Cyan Chevron
+item.banner.triangle_bottom.silver=Chevron gris clair
+item.banner.triangle_bottom.gray=Gray Chevron
+item.banner.triangle_bottom.pink=Pink Chevron
+item.banner.triangle_bottom.lime=Lime Chevron
+item.banner.triangle_bottom.yellow=Chevron jaune
+item.banner.triangle_bottom.lightBlue=Chevron bleu clair
+item.banner.triangle_bottom.magenta=Magenta Chevron
+item.banner.triangle_bottom.orange=Orange Chevron
+item.banner.triangle_bottom.white=Chevron blanc
+
+item.banner.triangle_top.black=Chevron inversé noir
+item.banner.triangle_top.red=Chevron inversé rouge
+item.banner.triangle_top.green=Chevron inversé vert
+item.banner.triangle_top.brown=Chevron inversé marron
+item.banner.triangle_top.blue=Chevron inversé bleu
+item.banner.triangle_top.purple=Chevron inversé violet
+item.banner.triangle_top.cyan=Chevron inversé cyan
+item.banner.triangle_top.silver=Chevron inversé gris clair
+item.banner.triangle_top.gray=Chevron inversé gris
+item.banner.triangle_top.pink=Chevron inversé rose
+item.banner.triangle_top.lime=Chevron inversé à la chaux
+item.banner.triangle_top.yellow=Chevron inversé jaune
+item.banner.triangle_top.lightBlue=Chevron inversé bleu clair
+item.banner.triangle_top.magenta=Chevron inversé magenta
+item.banner.triangle_top.orange=Chevron inversé orange
+item.banner.triangle_top.white=Chevron inversé blanc
+
+item.banner.triangles_bottom.black=Base noire en retrait
+item.banner.triangles_bottom.red=Base rouge en retrait
+item.banner.triangles_bottom.green=Base verte échancrée
+item.banner.triangles_bottom.brown=Base brune en retrait
+item.banner.triangles_bottom.blue=Base bleue en retrait
+item.banner.triangles_bottom.purple=Base violette échancrée
+item.banner.triangles_bottom.cyan=Cyan Base Indented
+item.banner.triangles_bottom.silver=Base gris clair échancré
+item.banner.triangles_bottom.gray=Base grise échancrée
+item.banner.triangles_bottom.pink=Base rose en retrait
+item.banner.triangles_bottom.lime=Lime Base Indented
+item.banner.triangles_bottom.yellow=Base jaune en retrait
+item.banner.triangles_bottom.lightBlue=Base bleu clair en retrait
+item.banner.triangles_bottom.magenta=Base magenta en retrait
+item.banner.triangles_bottom.orange=Orange Base Indented
+item.banner.triangles_bottom.white=Base blanche échancrée
+
+item.banner.triangles_top.black=Chef noir échancré
+item.banner.triangles_top.red=Chef rouge en retrait
+item.banner.triangles_top.green=Chef vert en retrait
+item.banner.triangles_top.brown=Chef marron en retrait
+item.banner.triangles_top.blue=Chef bleu en retrait
+item.banner.triangles_top.purple=Chef violet en retrait
+item.banner.triangles_top.cyan=Chef cyan en retrait
+item.banner.triangles_top.silver=Chef gris clair échancré
+item.banner.triangles_top.gray=Grey Chief échancré
+item.banner.triangles_top.pink=Chef rose en retrait
+item.banner.triangles_top.lime=Lime Chief en retrait
+item.banner.triangles_top.yellow=Chef jaune en retrait
+item.banner.triangles_top.lightBlue=Chef bleu clair échancré
+item.banner.triangles_top.magenta=Chef magenta en retrait
+item.banner.triangles_top.orange=Orange Chef en retrait
+item.banner.triangles_top.white=Chef blanc échancré
+
+item.banner.diagonal_left.black=Black Per Bend Sinister
+item.banner.diagonal_left.red=Red Per Bend Sinister
+item.banner.diagonal_left.green=Green Per Bend Sinister
+item.banner.diagonal_left.brown=Brown Per Bend Sinister
+item.banner.diagonal_left.blue=Blue Per Bend Sinister
+item.banner.diagonal_left.purple=Purple Per Bend Sinister
+item.banner.diagonal_left.cyan=Cyan Per Bend Sinister
+item.banner.diagonal_left.silver=Gris clair par virage sinistre
+item.banner.diagonal_left.gray=Gray Per Bend Sinister
+item.banner.diagonal_left.pink=Pink Per Bend Sinister
+item.banner.diagonal_left.lime=Lime Per Bend Sinister
+item.banner.diagonal_left.yellow=Jaune par virage sinistre
+item.banner.diagonal_left.lightBlue=Sinister bleu clair par virage
+item.banner.diagonal_left.magenta=Magenta Per Bend Sinister
+item.banner.diagonal_left.orange=Orange Per Bend Sinister
+item.banner.diagonal_left.white=White Per Bend Sinister
+
+item.banner.diagonal_right.black=Noir par virage
+item.banner.diagonal_right.red=Rouge par virage
+item.banner.diagonal_right.green=Vert par virage
+item.banner.diagonal_right.brown=Marron par virage
+item.banner.diagonal_right.blue=Bleu par virage
+item.banner.diagonal_right.purple=Violet par virage
+item.banner.diagonal_right.cyan=Cyan par virage
+item.banner.diagonal_right.silver=Gris clair par virage
+item.banner.diagonal_right.gray=Gris par virage
+item.banner.diagonal_right.pink=Rose par virage
+item.banner.diagonal_right.lime=Lime Per Bend
+item.banner.diagonal_right.yellow=Jaune par virage
+item.banner.diagonal_right.lightBlue=Bleu clair par virage
+item.banner.diagonal_right.magenta=Magenta Per Bend
+item.banner.diagonal_right.orange=Orange Per Bend
+item.banner.diagonal_right.white=Blanc par virage
+
+item.banner.diagonal_up_left.black=Tranché au second noir
+item.banner.diagonal_up_left.red=Tranché au second rouge
+item.banner.diagonal_up_left.green=Tranché au second vert
+item.banner.diagonal_up_left.brown=Tranché au second marron
+item.banner.diagonal_up_left.blue=Tranché au second bleu
+item.banner.diagonal_up_left.purple=Tranché au second violet
+item.banner.diagonal_up_left.cyan=Tranché au second cyan
+item.banner.diagonal_up_left.silver=Tranché au second gris clair
+item.banner.diagonal_up_left.gray=Tranché au second gris
+item.banner.diagonal_up_left.pink=Tranché au second rose
+item.banner.diagonal_up_left.lime=Tranché au second vert clair
+item.banner.diagonal_up_left.yellow=Tranché au second jaune
+item.banner.diagonal_up_left.lightBlue=Tranché au second bleu clair
+item.banner.diagonal_up_left.magenta=Tranché au second magenta
+item.banner.diagonal_up_left.orange=Tranché au second orange
+item.banner.diagonal_up_left.white=Tranché au second blanc
+
+item.banner.diagonal_up_right.black=Taillé au second noir
+item.banner.diagonal_up_right.red=Taillé au second rouge
+item.banner.diagonal_up_right.green=Taillé au second vert
+item.banner.diagonal_up_right.brown=Taillé au second marron
+item.banner.diagonal_up_right.blue=Taillé au second bleu
+item.banner.diagonal_up_right.purple=Taillé au second violet
+item.banner.diagonal_up_right.cyan=Taillé au second cyan
+item.banner.diagonal_up_right.silver=Taillé au second gris clair
+item.banner.diagonal_up_right.gray=Taillé au second gris
+item.banner.diagonal_up_right.pink=Taillé au second rose
+item.banner.diagonal_up_right.lime=Taillé au second vert clair
+item.banner.diagonal_up_right.yellow=Taillé au second jaune
+item.banner.diagonal_up_right.lightBlue=Taillé au second bleu clair
+item.banner.diagonal_up_right.magenta=Taillé au second magenta
+item.banner.diagonal_up_right.orange=Taillé au second orange
+item.banner.diagonal_up_right.white=Taillé au second blanc
+
+item.banner.circle.black=Tourteau noir
+item.banner.circle.red=Red Roundel
+item.banner.circle.green=Tourteau vert
+item.banner.circle.brown=Tourteau marron
+item.banner.circle.blue=Tourteau bleu
+item.banner.circle.purple=Tourteau violet
+item.banner.circle.cyan=Tourteau cyan
+item.banner.circle.silver=Tourteau gris clair
+item.banner.circle.gray=Tourteau gris
+item.banner.circle.pink=Tourteau rose
+item.banner.circle.lime=Tourteau vert clair
+item.banner.circle.yellow=Tourteau jaune
+item.banner.circle.lightBlue=Tourteau bleu clair
+item.banner.circle.magenta=Tourteau magenta
+item.banner.circle.orange=Tourteau orange
+item.banner.circle.white=Tourteau blanc
+
+item.banner.rhombus.black=Losange noir
+item.banner.rhombus.red=Losange rouge
+item.banner.rhombus.green=Losange vert
+item.banner.rhombus.brown=Losange marron
+item.banner.rhombus.blue=Losange bleu
+item.banner.rhombus.purple=Losange violet
+item.banner.rhombus.cyan=Losange cyan
+item.banner.rhombus.silver=Losange gris clair
+item.banner.rhombus.gray=Losange gris
+item.banner.rhombus.pink=Losange rose
+item.banner.rhombus.lime=Losange vert clair
+item.banner.rhombus.yellow=Losange jaune
+item.banner.rhombus.lightBlue=Losange bleu clair
+item.banner.rhombus.magenta=Losange magenta
+item.banner.rhombus.orange=Losange orange
+item.banner.rhombus.white=Losange blanc
+
+item.banner.half_vertical.black=Partie au premier noire
+item.banner.half_vertical.red=Partie au premier rouge
+item.banner.half_vertical.green=Partie au premier verte
+item.banner.half_vertical.brown=Partie au premier marron
+item.banner.half_vertical.blue=Partie au premier bleue
+item.banner.half_vertical.purple=Partie au premier violette
+item.banner.half_vertical.cyan=Partie au premier cyan
+item.banner.half_vertical.silver=Partie au premier grise claire
+item.banner.half_vertical.gray=Partie au premier grise
+item.banner.half_vertical.pink=Partie au premier rose
+item.banner.half_vertical.lime=Partie au premier verte claire
+item.banner.half_vertical.yellow=Partie au premier jaune
+item.banner.half_vertical.lightBlue=Partie au premier bleue claire
+item.banner.half_vertical.magenta=Partie au premier magenta
+item.banner.half_vertical.orange=Partie au premier orange
+item.banner.half_vertical.white=Partie au premier blanche
+
+item.banner.half_horizontal.black=Coupé au premier noir
+item.banner.half_horizontal.red=Coupé au premier rouge
+item.banner.half_horizontal.green=Coupé au premier vert
+item.banner.half_horizontal.brown=Coupé au premier marron
+item.banner.half_horizontal.blue=Coupé au premier bleu
+item.banner.half_horizontal.purple=Coupé au premier violet
+item.banner.half_horizontal.cyan=Coupé au premier cyan
+item.banner.half_horizontal.silver=Coupé au premier gris clair
+item.banner.half_horizontal.gray=Coupé au premier gris
+item.banner.half_horizontal.pink=Coupé au premier rose
+item.banner.half_horizontal.lime=Coupé au premier vert clair
+item.banner.half_horizontal.yellow=Coupé au premier jaune
+item.banner.half_horizontal.lightBlue=Coupé au premier bleu clair
+item.banner.half_horizontal.magenta=Coupé au premier magenta
+item.banner.half_horizontal.orange=Coupé au premier orange
+item.banner.half_horizontal.white=Coupé au premier blanc
+
+item.banner.half_vertical_right.black=Partie au second noire
+item.banner.half_vertical_right.red=Partie au second rouge
+item.banner.half_vertical_right.green=Partie au second verte
+item.banner.half_vertical_right.brown=Partie au second marron
+item.banner.half_vertical_right.blue=Partie au second bleue
+item.banner.half_vertical_right.purple=Partie au second violette
+item.banner.half_vertical_right.cyan=Partie au second cyan
+item.banner.half_vertical_right.silver=Partie au second grise claire
+item.banner.half_vertical_right.gray=Partie au second grise
+item.banner.half_vertical_right.pink=Partie au second rose
+item.banner.half_vertical_right.lime=Partie au second verte claire
+item.banner.half_vertical_right.yellow=Partie au second jaune
+item.banner.half_vertical_right.lightBlue=Partie au second bleue claire
+item.banner.half_vertical_right.magenta=Partie au second magenta
+item.banner.half_vertical_right.orange=Partie au second orange
+item.banner.half_vertical_right.white=Partie au second blanche
+
+item.banner.half_horizontal_bottom.black=Coupé au second noir
+item.banner.half_horizontal_bottom.red=Coupé au second rouge
+item.banner.half_horizontal_bottom.green=oupé au second vert
+item.banner.half_horizontal_bottom.brown=Coupé au second marron
+item.banner.half_horizontal_bottom.blue=Coupé au second bleu
+item.banner.half_horizontal_bottom.purple=Coupé au second violet
+item.banner.half_horizontal_bottom.cyan=Coupé au second cyan
+item.banner.half_horizontal_bottom.silver=Coupé au second gris clair
+item.banner.half_horizontal_bottom.gray=Coupé au second gris
+item.banner.half_horizontal_bottom.pink=Coupé au second rose
+item.banner.half_horizontal_bottom.lime=Coupé au second vert clair
+item.banner.half_horizontal_bottom.yellow=Coupé au second jaune
+item.banner.half_horizontal_bottom.lightBlue=Coupé au second bleu clair
+item.banner.half_horizontal_bottom.magenta=Coupé au second magenta
+item.banner.half_horizontal_bottom.orange=Coupé au second orange
+item.banner.half_horizontal_bottom.white=Coupé au second blanc
+
+item.banner.creeper.black=Face de Creeper noire
+item.banner.creeper.red=Face de Creeper rouge
+item.banner.creeper.green=Face de Creeper verte
+item.banner.creeper.brown=Face de Creeper marron
+item.banner.creeper.blue=Face de Creeper bleue
+item.banner.creeper.purple=Face de Creeper violette
+item.banner.creeper.cyan=Face de Creeper cyan
+item.banner.creeper.silver=Face de Creeper grise claire
+item.banner.creeper.gray=Face de Creeper grise
+item.banner.creeper.pink=Face de Creeper rose
+item.banner.creeper.lime=Face de Creeper verte claire
+item.banner.creeper.yellow=Face de Creeper jaune
+item.banner.creeper.lightBlue=Face de Creeper bleue claire
+item.banner.creeper.magenta=Face de Creeper magenta
+item.banner.creeper.orange=Face de Creeper orange
+item.banner.creeper.white=Face de Creeper blanche
+
+item.banner.bricks.black=Bannière noir maçonnée
+item.banner.bricks.red=Bannière rouge maçonnée
+item.banner.bricks.green=Bannière vert maçonnée
+item.banner.bricks.brown=Bannière marron maçonnée
+item.banner.bricks.blue=Bannière bleu maçonnée
+item.banner.bricks.purple=Bannière violet maçonnée
+item.banner.bricks.cyan=Bannière cyan maçonnée
+item.banner.bricks.silver=Bannière argenté maçonnée
+item.banner.bricks.gray=Bannière grise maçonnée
+item.banner.bricks.pink=Bannière rose maçonnée
+item.banner.bricks.lime=Bannière vert clair maçonnée
+item.banner.bricks.yellow=Bannière jaune maçonnée
+item.banner.bricks.lightBlue=Bannière bleu clair maçonnée
+item.banner.bricks.magenta=Bannière magenta maçonnée
+item.banner.bricks.orange=Bannière orange maçonnée
+item.banner.bricks.white=Bannière blanc maçonnée
+
+item.banner.gradient.black=Black Gradient=Bannière dégradé de noir
+item.banner.gradient.red=Red Gradient=Bannière dégradé de rouge
+item.banner.gradient.green=Green Gradient=Bannière dégradé de vert
+item.banner.gradient.brown=Brown Gradient=Bannière dégradé de marron
+item.banner.gradient.blue=Blue Gradient=Bannière dégradé de bleu
+item.banner.gradient.purple=Purple Gradient=Bannière dégradé de violet
+item.banner.gradient.cyan=Cyan Gradient=Bannière dégradé de cyan
+item.banner.gradient.silver=Light Gray Gradient=Bannière dégradé d'argent
+item.banner.gradient.gray=Gray Gradient=Bannière dégradé de gris
+item.banner.gradient.pink=Pink Gradient=Bannière dégradé de rose
+item.banner.gradient.lime=Lime Gradient=Bannière dégradé de vert clair
+item.banner.gradient.yellow=Yellow Gradient=Bannière dégradé de jaune
+item.banner.gradient.lightBlue=Light Blue Gradient=Bannière dégradé de bleu clair
+item.banner.gradient.magenta=Magenta Gradient=Bannière dégradé de magenta
+item.banner.gradient.orange=Orange Gradient=Bannière dégradé d'orange
+item.banner.gradient.white=White Gradient=Bannière dégradé de blanc
+
+item.banner.gradient_up.black=Black Base Gradient=Bannière dégradé de noir
+item.banner.gradient_up.red=Red Base Gradient=Bannière dégradé de rouge
+item.banner.gradient_up.green=Green Base Gradient=Bannière dégradé de vert
+item.banner.gradient_up.brown=Brown Base Gradient=Bannière dégradé de marron
+item.banner.gradient_up.blue=Blue Base Gradient=Bannière dégradé de bleu
+item.banner.gradient_up.purple=Purple Base Gradient=Bannière dégradé de rose
+item.banner.gradient_up.cyan=Cyan Base Gradient=Bannière dégradé de cyan
+item.banner.gradient_up.silver=Light Gray Base Gradient=Bannière dégradé d'argent
+item.banner.gradient_up.gray=Gray Base Gradient=Bannière dégradé de gris
+item.banner.gradient_up.pink=Pink Base Gradient=Bannière dégradé de rose
+item.banner.gradient_up.lime=Lime Base Gradient=Bannière dégradé de vert clair
+item.banner.gradient_up.yellow=Yellow Base Gradient=Bannière dégradé de jaune
+item.banner.gradient_up.lightBlue=Light Blue Base Gradient=Bannière dégradé de bleu clair
+item.banner.gradient_up.magenta=Magenta Base Gradient=Bannière dégradé de magenta
+item.banner.gradient_up.orange=Orange Base Gradient=Bannière dégradé d'orange
+item.banner.gradient_up.white=White Base Gradient=Bannière dégradé de blanc
+
+item.banner.skull.black=Black Skull Charge=Bannière de squelette noir
+item.banner.skull.red=Red Skull Charge=Bannière de squelette rouge
+item.banner.skull.green=Green Skull Charge=Bannière de squelette vert
+item.banner.skull.brown=Brown Skull Charge=Bannière de squelette marron
+item.banner.skull.blue=Blue Skull Charge=Bannière de squelette bleu
+item.banner.skull.purple=Purple Skull Charge=Bannière de squelette violet
+item.banner.skull.cyan=Cyan Skull Charge=Bannière de squelette cyan
+item.banner.skull.silver=Light Gray Skull Charge=Bannière de squelette argenté
+item.banner.skull.gray=Gray Skull Charge=Bannière de squelette gris
+item.banner.skull.pink=Pink Skull Charge=Bannière de squelette rose
+item.banner.skull.lime=Lime Skull Charge=Bannière de squelette vert clair
+item.banner.skull.yellow=Yellow Skull Charge=Bannière de squelette jaune
+item.banner.skull.lightBlue=Light Blue Skull Charge=Bannière de squelette bleu clair
+item.banner.skull.magenta=Magenta Skull Charge=Bannière de squelette magenta
+item.banner.skull.orange=Orange Skull Charge=Bannière de squelette orange
+item.banner.skull.white=White Skull Charge=Bannière de squelette blanc
+
+item.banner.flower.black=Black Flower Charge=Bannière de fleur noir
+item.banner.flower.red=Red Flower Charge=Bannière de fleur rouge
+item.banner.flower.green=Green Flower Charge=Bannière de fleur vert
+item.banner.flower.brown=Brown Flower Charge=Bannière de fleur marron
+item.banner.flower.blue=Blue Flower Charge=Bannière de fleur bleu
+item.banner.flower.purple=Purple Flower Charge=Bannière de fleur violet
+item.banner.flower.cyan=Cyan Flower Charge=Bannière de fleur cyan
+item.banner.flower.silver=Light Gray Flower Charge=Bannière de fleur argenté
+item.banner.flower.gray=Gray Flower Charge=Bannière de fleur gris
+item.banner.flower.pink=Pink Flower Charge=Bannière de fleur rose
+item.banner.flower.lime=Lime Flower Charge=Bannière de fleurvert clair
+item.banner.flower.yellow=Yellow Flower Charge=Bannière de fleur jaune
+item.banner.flower.lightBlue=Light Blue Flower Charge=Bannière de fleur bleu clair
+item.banner.flower.magenta=Magenta Flower Charge=Bannière de fleur magenta
+item.banner.flower.orange=Orange Flower Charge=Bannière de fleur orange
+item.banner.flower.white=White Flower Charge=Bannière de fleur blanc
+
+item.banner.border.black=Black Bordure=Bannière bordé de noir
+item.banner.border.red=Red Bordure=Bannière bordé de rouge
+item.banner.border.green=Green Bordure=Bannière bordé de vert
+item.banner.border.brown=Brown Bordure=Bannière bordé de marron
+item.banner.border.blue=Blue Bordure=Bannière bordé de bleu
+item.banner.border.purple=Purple Bordure=Bannière bordé de violet
+item.banner.border.cyan=Cyan Bordure=Bannière bordé de cyan
+item.banner.border.silver=Light Gray Bordure=Bannière bordé d'argent
+item.banner.border.gray=Gray Bordure=Bannière bordé de gris
+item.banner.border.pink=Pink Bordure=Bannière bordé de rose
+item.banner.border.lime=Lime Bordure=Bannière bordé de vert clair
+item.banner.border.yellow=Yellow Bordure=Bannière bordé de jaune
+item.banner.border.lightBlue=Light Blue Bordure=Bannière bordé de bleu clair
+item.banner.border.magenta=Magenta Bordure=Bannière bordé de magenta
+item.banner.border.orange=Orange Bordure=Bannière bordé d'orange
+item.banner.border.white=White Bordure=Bannière bordé de blanc
+
+item.banner.curly_border.black=Black Bordure Indented=Bannière bordure en retrait noir
+item.banner.curly_border.red=Red Bordure Indented=Bannière bordure en retrait rouge
+item.banner.curly_border.green=Green Bordure Indented=Bannière bordure en retrait vert
+item.banner.curly_border.brown=Brown Bordure Indented=Bannière bordure en retrait marron
+item.banner.curly_border.blue=Blue Bordure Indented=Bannière bordure en retrait bleu
+item.banner.curly_border.purple=Purple Bordure Indented=Bannière bordure en retrait violet
+item.banner.curly_border.cyan=Cyan Bordure Indented=Bannière bordure en retrait cyan
+item.banner.curly_border.silver=Light Gray Bordure Indented=Bannière bordure en retrait argenté
+item.banner.curly_border.gray=Gray Bordure Indented=Bannière bordure en retrait gris
+item.banner.curly_border.pink=Pink Bordure Indented=Bannière bordure en retrait rose
+item.banner.curly_border.lime=Lime Bordure Indented=Bannière bordure en retrait vert clair
+item.banner.curly_border.yellow=Yellow Bordure Indented=Bannière bordure en retrait jaune
+item.banner.curly_border.lightBlue=Light Blue Bordure Indented=Bannière bordure en retrait bleu clair
+item.banner.curly_border.magenta=Magenta Bordure Indented=Bannière bordure en retrait magenta
+item.banner.curly_border.orange=Orange Bordure Indented=Bannière bordure en retrait orange
+item.banner.curly_border.white=White Bordure Indented=Bannière bordure en retrait white
+
+item.banner.mojang.black=Black Thing=Bannière mojang noir
+item.banner.mojang.red=Red Thing=Bannière mojang rouge
+item.banner.mojang.green=Green Thing=Bannière mojang vert
+item.banner.mojang.brown=Brown Thing=Bannière mojang marron
+item.banner.mojang.blue=Blue Thing=Bannière mojang bleu
+item.banner.mojang.purple=Purple Thing=Bannière mojang violet
+item.banner.mojang.cyan=Cyan Thing=Bannière mojang cyan
+item.banner.mojang.silver=Light Gray Thing=Bannière mojang argenté
+item.banner.mojang.gray=Gray Thing=Bannière mojang gris
+item.banner.mojang.pink=Pink Thing=Bannière mojang rose
+item.banner.mojang.lime=Lime Thing=Bannière mojang vert clair
+item.banner.mojang.yellow=Yellow Thing=Bannière mojang jaune
+item.banner.mojang.lightBlue=Light Blue Thing=Bannière mojang  bleu clair
+item.banner.mojang.magenta=Magenta Thing=Bannière mojang magenta
+item.banner.mojang.orange=Orange Thing=Bannière mojang orange
+item.banner.mojang.white=White Thing=Bannière mojang blanc
+
+item.banner.straight_cross.black=Black Cross=Bannière de croix noir
+item.banner.straight_cross.red=Red Cross=Bannière de croix rouge
+item.banner.straight_cross.green=Green Cross=Bannière de croix vert
+item.banner.straight_cross.brown=Brown Cross=Bannière de croix marron
+item.banner.straight_cross.blue=Blue Cross=Bannière de croix bleu
+item.banner.straight_cross.purple=Purple Cross=Bannière de croix violet
+item.banner.straight_cross.cyan=Cyan Cross=Bannière de croix cyan
+item.banner.straight_cross.silver=Light Gray Cross=Bannière de croix argenté
+item.banner.straight_cross.gray=Gray Cross=Bannière de croix gris
+item.banner.straight_cross.pink=Pink Cross=Bannière de croix rose
+item.banner.straight_cross.lime=Lime Cross=Bannière de croix vert clair
+item.banner.straight_cross.yellow=Yellow Cross=Bannière de croix jaune
+item.banner.straight_cross.lightBlue=Light Blue Cross=Bannière de croix bleu clair
+item.banner.straight_cross.magenta=Magenta Cross=Bannière de croix magenta
+item.banner.straight_cross.orange=Orange Cross=Bannière de croix orange
+item.banner.straight_cross.white=White Cross=Bannière de croix blanc
+
+item.contentium.totem_of_undying.name=§eTotem d'immortalitée
+item.contentium.sweet_berriees.name=Baie sucrée
+item.contentium.oak_boat.name=Bateau en chêne
+item.contentium.spruce_boat.name=Bateau en sapin
+item.contentium.birch_boat.name=Bateau en bouleau
+item.contentium.jungle_boat.name=Bateau en jungle
+item.contentium.acacia_boat.name=Bateau en acacia
+item.contentium.dark_oak_boat.name=Bateau en chêne noir
+tile.contentium.spruce_pressure_plate.name=Plaque de pression en sapin
+tile.contentium.birch_pressure_plate.name=Plaque de pression en bouleau
+tile.contentium.jungle_pressure_plate.name=Plaque de pression en jungle
+tile.contentium.acacia_pressure_plate.name=Plaque de pression d'accacia
+tile.contentium.dark_oak_pressure_plate.name=Plaque de pression en chêne noir
+tile.contentium.spruce_button.name=Bouton en sapin
+tile.contentium.birch_button.name=Bouton en bouleau
+tile.contentium.jungle_button.name=Bouton en jungle
+tile.contentium.acacia_button.name=Bouton d'accacia
+tile.contentium.dark_oak_button.name=Bouton en bois noir
+tile.contentium.spruce_trapdoor.name=Trappe en sapin
+tile.contentium.birch_trapdoor.name=Trappe en bouleau
+tile.contentium.jungle_trapdoor.name=Trappe en jungle
+tile.contentium.acacia_trapdoor.name=Trappe d'acacia
+tile.contentium.dark_oak_trapdoor.name=Trappe en chêne noir
+item.contentium.spruce_sign.name=Pancarte en sapin
+item.contentium.birch_sign.name=Pancarte en bouleau
+item.contentium.jungle_sign.name=Pancarte en jungle
+item.contentium.acacia_sign.name=Pancarte d'accacia
+item.contentium.dark_oak_sign.name=Pancarte en chêne noir
+tile.smoker.name=Fumoir
+tile.blast_furnace.name=Fourneau
+tile.contentium.cornflower.name=Bleuet
+tile.contentium.lily_valley.name=Muguet
+tile.contentium.wither_rose.name=Wither Rose
+tile.contentium.red_nether_brick_wall.name=Muret en briques rouges du Nether
+tile.contentium.red_sandstone_wall.name=Muret en grès rouge
+tile.contentium.sandstone_wall.name=Muret en grès
+tile.contentium.stonebrick_wall.name=Muret en pierre taillée
+tile.contentium.andesite_wall.name=Muret d'andésite
+tile.contentium.prismarine_wall.name=Muret de prismarine
+tile.contentium.brick_wall.name=Muret en briques
+tile.contentium.diorite_wall.name=Muret de diorite
+tile.contentium.end_brick_wall.name=Muret en briques de l'end
+tile.contentium.granite_wall.name=Muret de granite
+tile.contentium.mossy_cobblestone_wall.name=Muret de pierres moussues
+tile.contentium.nether_brick_wall.name=Muret en briques rouges du Nether
+tile.contentium.glazed_white_glazed_terracotta.name=Terre cuite émaillée blanche
+tile.contentium.glazed_orange_glazed_terracotta.name=Terre cuite émaillée orange
+tile.contentium.glazed_magenta_glazed_terracotta.name=Terre cuite émaillée magenta
+tile.contentium.glazed_light_blue_glazed_terracotta.name=Terre cuite émaillée bleu clair
+tile.contentium.glazed_yellow_glazed_terracotta.name=Terre cuite émaillée jaune
+tile.contentium.glazed_lime_glazed_terracotta.name=Terre cuite émaillée vert clair
+tile.contentium.glazed_pink_glazed_terracotta.name=Terre cuite émaillée rose
+tile.contentium.glazed_gray_glazed_terracotta.name=Terre cuite émaillée grise
+tile.contentium.glazed_light_gray_glazed_terracotta.name=Terre cuite émaillée gris clair
+tile.contentium.glazed_cyan_glazed_terracotta.name=Terre cuite émaillée cyan
+tile.contentium.glazed_purple_glazed_terracotta.name=Terre cuite émaillée violette
+tile.contentium.glazed_blue_glazed_terracotta.name=Terre cuite émaillée bleue
+tile.contentium.glazed_brown_glazed_terracotta.name=Terre cuite émaillée marron
+tile.contentium.glazed_green_glazed_terracotta.name=Terre cuite émaillée verte
+tile.contentium.glazed_red_glazed_terracotta.name=Terre cuite émaillée rouge
+tile.contentium.glazed_black_glazed_terracotta.name=Terre cuite émaillée noire
+tile.contentium.smooth_stone.name=Smooth Stone
+tile.contentium.magma.name=Bloc de magma
+tile.contentium.blue_ice.name=Glace bleue
+tile.contentium.nether_wart_block.name=Bloc de verrues du Nether
+tile.contentium.smooth_stone.name=Smooth Stone
+tile.contentium.andesite_slab.name=Dalle d'andésite
+tile.contentium.polished_andesite_slab.name=Polished Andesite Slab
+tile.contentium.stone_slab.name=Dalle en pierre
+tile.contentium.mossy_cobblestone_slab.name=Dalle en pierres moussues
+tile.contentium.mossy_stone_slab.name=Dalle en pierre taillée moussue
+tile.contentium.end_stone_brick_slab.name=Dalle en briques de l'End
+tile.contentium.red_nether_brick_slab.name=Dalle en briques rouges du Nether
+tile.contentium.granite_slab.name=Dalle en granite
+tile.contentium.polished_granite_slab.name=Dalle en granite poli
+tile.contentium.dark_prismarine_brick_slab.name=Dalle de prismarine sombre
+tile.contentium.prismarine_slab.name=Dalle de prismarine
+tile.contentium.prismarine_brick_slab.name=Dalle de prismarine taillée
+tile.contentium.diorite_slab.name=Dalle de diorite
+tile.contentium.polished_diorite_slab.name=Dalle en diorite polie
+tile.contentium.sandstone_slab.name=Dalle en grès
+tile.contentium.andesite_stairs.name=Dalle d'andésite
+tile.contentium.polished_andesite_stairs.name=Dalle d'andésite polie
+tile.contentium.stone_stairs.name=Escalier de roche
+tile.contentium.mossy_cobblestone_stairs.name=Escalier en pierres moussues
+tile.contentium.mossy_stone_stairs.name=Escalier en pierre taillée moussue
+tile.contentium.end_stone_brick_stairs.name=Escalier en briques de l'End
+tile.contentium.red_nether_brick_stairs.name=Escalier en briques du Nether
+tile.contentium.granite_stairs.name=Escalier de granite
+tile.contentium.polished_granite_stairs.name=Escalier de granite poli
+tile.contentium.dark_prismarine_brick_stairs.name=Escalier en prismarine sombre
+tile.contentium.prismarine_stairs.name=Escalier en prismarine
+tile.contentium.prismarine_brick_stairs.name=Escalier en prismarine taillée
+tile.contentium.diorite_stairs.name=Escalier en diorite
+tile.contentium.polished_diorite_stairs.name=Escalier en diorite polie
+tile.contentium.sandstone_stairs.name=Escalier en grès
+tile.contentium.red_nether_bricks.name=Escalier en briques rouges du Nether
+tile.contentium.concrete_black_concrete.name=Béton noir
+tile.contentium.concrete_red_concrete.name=Béton rouge
+tile.contentium.concrete_green_concrete.name=Béton vert
+tile.contentium.concrete_brown_concrete.name=Béton marron
+tile.contentium.concrete_blue_concrete.name=Béton bleu clair
+tile.contentium.concrete_purple_concrete.name=Béton violet
+tile.contentium.concrete_cyan_concrete.name=Béton cyan
+tile.contentium.concrete_light_gray_concrete.name=Béton gris clair en poudre
+tile.contentium.concrete_gray_concrete.name=Béton gris
+tile.contentium.concrete_pink_concrete.name=Béton rose
+tile.contentium.concrete_magenta_concrete.name=Béton magenta
+tile.contentium.concrete_lime_concrete.name=Béton vert clair
+tile.contentium.concrete_yellow_concrete.name=Béton jaune
+tile.contentium.concrete_light_blue_concrete.name=Béton bleu clair
+tile.contentium.concrete_orange_concrete.name=Béton orange
+tile.contentium.concrete_white_concrete.name=Béton blanc
+tile.contentium.powder_black_concrete_powder.name=Béton noir en poudre
+tile.contentium.powder_red_concrete_powder.name=Béton rouge en poudre
+tile.contentium.powder_green_concrete_powder.name=Béton vert en poudre
+tile.contentium.powder_brown_concrete_powder.name=Béton marron en poudre
+tile.contentium.powder_blue_concrete_powder.name=Béton bleu en poudre
+tile.contentium.powder_purple_concrete_powder.name=Béton violet en poudre
+tile.contentium.powder_cyan_concrete_powder.name=Béton cyan en poudre
+tile.contentium.powder_light_gray_concrete_powder.name=Béton gris clair en poudre
+tile.contentium.powder_gray_concrete_powder.name=Béton gris en poudre
+tile.contentium.powder_pink_concrete_powder.name=Béton rose en poudre
+tile.contentium.powder_magenta_concrete_powder.name=Béton magenta en poudre
+tile.contentium.powder_lime_concrete_powder.name=Béton vert clair en poudre
+tile.contentium.powder_yellow_concrete_powder.name=Béton jaune en poudre
+tile.contentium.powder_light_blue_concrete_powder.name=Béton bleu clair en poudre
+tile.contentium.powder_orange_concrete_powder.name=Béton orange en poudre
+tile.contentium.powder_white_concrete_powder.name=Béton blanc en poudre
+tile.contentium.coralblock_brain_coral_block.name=Bloc de corail cerveau
+tile.contentium.coralblock_bubble_coral_block.name=Bloc de corail bulles
+tile.contentium.coralblock_fire_coral_block.name=Bloc de corail de feu
+tile.contentium.coralblock_horn_coral_block.name=Bloc de corail conré
+tile.contentium.coralblock_tube_coral_block.name=Bloc de corail tubulaire
+tile.contentium.coralblock_dead_brain_coral_block.name=Bloc de corail cerveau mort
+tile.contentium.coralblock_dead_bubble_coral_block.name=Bloc de corail bulles mort
+tile.contentium.coralblock_dead_fire_coral_block.name=Bloc de corail de feu mort
+tile.contentium.coralblock_dead_horn_coral_block.name=Bloc de corail corné mort
+tile.contentium.coralblock_dead_tube_coral_block.name=Bloc de corail tubulaire mort
+tile.contentium.wood_oak_wood.name=Bois de chêne
+tile.contentium.wood_spruce_wood.name=Bois de sapin
+tile.contentium.wood_birch_wood.name=Bois de bouleau
+tile.contentium.wood_jungle_wood.name=Bois de jungle
+tile.contentium.woodd_accacia_wood.name=Bois d'acacia
+tile.contentium.wood_dark_oak_wood.name=Bois de chêne noir
+tile.contentium.wood_stripped_Oak_wood.name=Bois de chêne écorcé
+tile.contentium.wood_stripped_spruce_wood.name=Bois de sapin écorcé
+tile.contentium.wood_stripped_birch_wood.name=Bois de bouleau écorcé
+tile.contentium.wood_stripped_jungle_wood.name=Bois de jungle écorcé
+tile.contentium.wood_stripped_accacia_wood.name=Bois d'acacia écorcé
+tile.contentium.wood_stripped_dark_oak_wood.name=Bois de chêne noir écorcé
+tile.contentium.log_stripped_oak_log.name=Bûche de chêne écorcée
+tile.contentium.log_stripped_spruce_log.name=Bûche de sapin écorcé
+tile.contentium.log_stripped_birch_log.name=Bûche de bouleau écorcé
+tile.contentium.log_stripped_jungle_log.name=Bûche de jungle écorcé
+tile.contentium.log_stripped_accacia_log.name=Bûche d'acacia écorcé
+tile.contentium.log_stripped_dark_oak_log.name=Bûche de chêne noir écorcé

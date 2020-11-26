@@ -1,0 +1,8 @@
+/bin
+.DS_Store
+.settings/
+build
+/libs
+.gradle
+/Game-Client
+/Contentium

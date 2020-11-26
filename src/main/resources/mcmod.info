@@ -1,0 +1,19 @@
+[
+{
+  "modid": "contentium",
+  "name": "Contentium",
+  "description": "Contentium - basé sur EtFuturum",
+  "version": "1.6.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Arcrow",
+	"xTrM_"
+  ],
+  "credits": "Valkya Developers & EtFuturum Developers",
+  "logoFile": "",
+  "screenshots": [],
+  "parent":"",
+  "dependencies": []
+}
+]

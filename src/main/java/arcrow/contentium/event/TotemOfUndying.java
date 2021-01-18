@@ -59,9 +59,7 @@ public class TotemOfUndying {
 			entityPlayer.playSound(Reference.MOD_ID + ":block.bush.flem", 1F, 2F);			
 			entityPlayer.inventory.clearInventory(ModItems.totem_of_undying, -1);
 
-			APIProvider.provideAPI().getRenderer().sendInfoNotification(EnumChatFormatting.GOLD + "" + EnumChatFormatting.BOLD + "Totem", EnumChatFormatting.RED + "Tu es mort!...Mais ton totem t'as permis de ressusciter.", 3);
-			
-			//			entityPlayer.addChatComponentMessage(new ChatComponentText(EnumChatFormatting.RED + "Tu es mort, ton totem t'as permis de ressusciter !"));
+			entityPlayer.addChatComponentMessage(new ChatComponentText(EnumChatFormatting.RED + "Tu es mort, ton totem t'as permis de ressusciter !"));
 			
 			event.setCanceled(true);
 		}
